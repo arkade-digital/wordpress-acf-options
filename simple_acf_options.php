@@ -1,7 +1,7 @@
 <?php
 
 /*
-Plugin Name: ACF Basic Options Page
+Plugin Name: ACF Simple Options Page
 Plugin URI: http://www.arkade.com.au
 Description: Easily add ACF Options page without theme modification
 Version: 1.0
