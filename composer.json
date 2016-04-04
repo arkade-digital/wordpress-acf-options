@@ -1,22 +1,21 @@
 {
-	"name": "arkadedigital/acf-options",
+	"name": "arkadedigital/wordpress-acf-options",
 	"description": "Easily add ACF Options page without theme modification",
-	"homepage": "https://arkade.com.au",
+	"homepage": "http://www.arkade.com.au",
 	"type": "wordpress-plugin",
 	"keywords": ["advanced custom fields", "ACF", "options", "options page", "simple", "easy"],
-	"license": "GPL-2.0",
+	"license": "MIT",
 	"authors": [
 		{
+			"name": "James Hunt",
+			"email": "jamesh@arkade.com.au"
+		},
+		{
 			"name": "Arkade Digital",
-			"homepage": "https://arkade.com.au"
+			"homepage": "http://www.arkade.com.au"
 		}
 	],
 	"support": {
-		"issues": "https://arkade.com.au",
-		"forum": "https://arkade.com.au"
-	},
-	"minimum-stability": "dev",
-		"require": {
-		"php": ">=5.3.0"
+		"email": "support@arkade.com.au"
 	}
 }
