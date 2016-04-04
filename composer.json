@@ -1,5 +1,5 @@
 {
-	"name": "jamesh-arkade/simple_acf_options",
+	"name": "arkadedigital/acf-options",
 	"description": "Easily add ACF Options page without theme modification",
 	"homepage": "https://arkade.com.au",
 	"type": "wordpress-plugin",
@@ -8,8 +8,7 @@
 	"authors": [
 		{
 			"name": "Arkade Digital",
-			"email": "contact@webdevstudios.com",
-			"homepage": "https://github.com/WebDevStudios/custom-post-type-ui"
+			"homepage": "https://arkade.com.au"
 		}
 	],
 	"support": {
